@@ -30,5 +30,4 @@ O mod foi criado por **Mumfrey**, um desenvolvedor da comunidade Minecraft que c
 - [Planet Minecraft - Macro/Keybind Mod](https://www.planetminecraft.com/mod/macro-keybind-mod/)
 
 ---
-
-Desenvolvido por: [Mumfrey](https://github.com/Mumfrey)
+Escrito em 15/02/2025
